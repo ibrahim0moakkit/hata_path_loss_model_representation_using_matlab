@@ -22,11 +22,18 @@ matlab code for hata path loss model for three areas
 
 ![hata open area equation](https://user-images.githubusercontent.com/108411357/192647449-b008f69c-2b2a-400f-8ab7-971f33f7be03.png)
 
-
 <pre>
-hello, this is
-   just an     example
-....
+
+
+
+
+
+</pre>
+
+***Corrolation Coefficient Cr Equations: ***
+<pre>
+![Cr eqaution1](https://user-images.githubusercontent.com/108411357/192648141-a1885f20-7d07-4787-8f25-131205f86290.png)
+![Cr equation2](https://user-images.githubusercontent.com/108411357/192648156-da2d542c-245f-4bc9-8108-8f226cac2514.png)
 </pre>
 
 
