@@ -5,7 +5,10 @@ matlab code for hata path loss model for three areas
 ![hata urban equation](https://user-images.githubusercontent.com/108411357/192647252-20489e4d-5714-40c5-a1d6-15ab64b553be.png)
 
 
+
+
 -SubUrban Area:
+
 ![hata suburban equation](https://user-images.githubusercontent.com/108411357/192647367-49a237c0-d7ec-4dad-a974-76cb1a29f7a0.png)
 
 
